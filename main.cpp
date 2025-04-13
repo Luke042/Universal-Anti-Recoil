@@ -1,7 +1,5 @@
 #include <Windows.h>
 #include <iostream>
-#include <string>
-#include "virtualKeys.h"
 
 int main() {
 SetConsoleTitleA("Anti-Recoil Script - made by lukeismadhot on discord :)");
