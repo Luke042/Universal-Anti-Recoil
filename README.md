@@ -1,4 +1,4 @@
-# Anti-Recoil-Script
+# Universal Anti-Recoil Program
 A universal anti recoil program that is programed in C++.
 
 Hold down Left Click to enable anti-recoil,
